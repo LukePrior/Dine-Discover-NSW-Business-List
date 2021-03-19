@@ -1,6 +1,6 @@
 # Dine & Discover NSW Business List
 
-This repository features a list of all the business's participating in the NSW government Dine &amp; Discover scheme
+This repository features a list of all the business's participating in the NSW government [Dine &amp; Discover](https://www.service.nsw.gov.au/campaign/dine-discover-nsw) scheme
 
 # Map
 
